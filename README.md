@@ -3,8 +3,7 @@ Full Stack Web Developer | MERN Stack Specialist
 
 Passionate about building scalable web applications and exploring new technologies. Proficient in both frontend and backend development with a strong focus on creating seamless user experiences. Skilled in JavaScript, React, Node.js, Express, MongoDB, and RESTful APIs. Constantly learning and striving to write clean, efficient, and maintainable code.
 
-🌐 Website: [yourwebsite.com]
-📫 Contact: [your.email@example.com]
+📫 Contact: codewithdhruv715@gmail.com
 <!--
 **Dhruv715/Dhruv715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
