@@ -6,8 +6,7 @@ Passionate about building scalable web applications and exploring new technologi
 📫 Contact: druvzanzmera@gmail.com
 
 🌐 Portfolio: [https://dhruv-zanzmera-portfolio.vercel.app/](https://dhruv-zanzmera-portfolio.vercel.app/)
-### Amazing Coding Animations
-![Coding Animation](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
