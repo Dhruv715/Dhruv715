@@ -5,7 +5,7 @@ Passionate about building scalable web applications and exploring new technologi
 
 📫 Contact: druvzanzmera@gmail.com
 
-🌐 Portfolio: [https://dhruv-zanzmera-portfolio.vercel.app/](https://dhruv-zanzmera-portfolio.vercel.app/)
+🌐 Portfolio: https://dhruvzanzmera.vercel.app
 
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
